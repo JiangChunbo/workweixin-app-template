@@ -1,0 +1,10 @@
+{
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Tq\\${app_name}\\Model\\": "model/",
+      "Tq\\${app_name}\\Lib\\": "lib/"
+    }
+  }
+}

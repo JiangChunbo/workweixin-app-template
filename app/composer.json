@@ -1,0 +1,10 @@
+{
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Tq\\ShortVideoContest\\Model\\": "model/",
+      "Tq\\ShortVideoContest\\Lib\\": "lib/"
+    }
+  }
+}
